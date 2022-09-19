@@ -14,7 +14,13 @@ _exemple :_
 ```
 
 _note: les parenthèse sont utilisables_  
-
+Il y a les opérateurs de comparaison:  
+'=='
+'!='
+'>='
+'<='
+'<'
+'>'
 
 ## Les chaines de caractère  
   
@@ -179,7 +185,11 @@ if ravi:
     phrase = nouvelle_phrase
 print(phrase)
 ```
-
+la fonction "elif " est un contractré de :
+```python
+else:
+    if
+```
 
 ### _Vocabulaire utile_  
 
@@ -187,4 +197,4 @@ print(phrase)
 **Une expression** : Une partie de code qui est évaluable et qui possède une valeur  
 **évaluer** : C'est calculer la valeur d'une expression  
 **l'itération** : C'est l'exécution d'une boucle   
-**une instruction** est 
+**une instruction** est une ligne de code
